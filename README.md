@@ -2,7 +2,8 @@
 
 I'm Nori, a freshman Computer Science student based in the Philippines.
 
-This profile serves as documentation for everything I build, experiment with, and work on while completing my degree. Everything here is built from scratch, no copy‑paste templates.
+This profile serves as documentation for everything I build, experiment with, and work on while completing my degree. 
 
-I am interested in machine learning, artificial intelligence, cloud computing, data science, cybersecurity, and full-stack development.
+I am interested in machine learning & artificial intelligence, cloud computing, data science, cybersecurity, and full-stack development.
+
 
