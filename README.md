@@ -6,10 +6,11 @@ This profile serves as documentation for everything I build, experiment with, an
 
 I am interested in machine learning & artificial intelligence, data science, and full-stack development.
 
---
+---
 <p>
 <img src="https://skillicons.dev/icons?i=cpp,java,html,css,git,figma" />
 </p>
+
 
 
 
