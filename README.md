@@ -1,6 +1,6 @@
 ## Hi there! <img src="cutie.gif" alt="demo gif" width="30"/>
 
-I'm Nori, a freshman Computer Science student based in the Philippines.
+I'm Nori, a sophomore Computer Science student based in the Philippines.
 
 This profile serves as documentation for everything I build, experiment with, and work on while completing my degree. 
 
