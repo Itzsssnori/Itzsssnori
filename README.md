@@ -1,10 +1,14 @@
-## Hi there! <img src="cutie.gif" alt="demo gif" width="30"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0d0d12,100:3b1d4a&height=110&section=header" width="100%" />
 
-I'm Nori, a sophomore Computer Science student based in the Philippines.
+   &ensp;## Hi there! <img src="cutie.gif" alt="demo gif" width="30"/>
 
-This profile serves as documentation for everything I build, experiment with, and work on while completing my degree. 
+   &ensp;I'm Nori, a sophomore Computer Science student based in the Philippines.
 
-I am interested in machine learning & artificial intelligence, data science, and full-stack development.
+   &ensp;This profile serves as documentation for everything I build, experiment with, and work on while completing my degree.
+
+   &ensp;I'm interested in **network and cloud computing** and **full-stack development**.
+
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:3b1d4a,100:0d0d12&height=90&section=footer" width="100%" />
 
 
 
